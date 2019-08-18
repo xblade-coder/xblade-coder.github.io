@@ -9,3 +9,7 @@
 a.red:hover{
 	color: rgb(143, 0, 0);
 }
+
+.white {
+	color: white;
+}
